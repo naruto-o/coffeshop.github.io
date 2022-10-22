@@ -180,6 +180,7 @@ section{
     display: flex;
     align-items: center;
     background: url(../images/home-img.jpeg)no-repeat;
+    /* here by using two dots the background image will get posted */
     background-size: cover;
     background-position: center;
 }
