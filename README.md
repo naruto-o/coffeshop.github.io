@@ -1,4 +1,5 @@
- ** https://naruto-o.github.io/coffeshop.github.io/**	
+**Below is the link for the hosted website**
+** https://naruto-o.github.io/coffeshop.github.io/**	
 
 
 # coffeshop.github.io
