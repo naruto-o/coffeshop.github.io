@@ -2,6 +2,7 @@
  a complete responsive online coffee shop website design template using html css and vanilla javascript
 the main feature of this website are:
 ✔ responsive header section with search box, navbar toggle and shopping cart box.
+br
 ✔ responsive home section using css flexbox.
 ✔ responsive about section using css flexbox.
 ✔ responsive menu card section using css grid.
